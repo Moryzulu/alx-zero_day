@@ -1,1 +1,5 @@
-#!/bin/bash ALX School is so cool
+<<<<<<< HEAD
+#!/bin/bash ALX School is cool is so cool
+=======
+#!/bin/bash ALX School is cool
+>>>>>>> update_script
